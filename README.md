@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mrinal  
-**Former ETL Developer** | **Healthcare Analytics Enthusiast** | **Client-Facing Problem Solver**
+**Ex-TreasureData - CDP Engineer** | **Ex-UHG - Data Engineer** | **Healthcare Data Analytics** |
 
 🎯 Passionate about transforming complex healthcare data into powerful insights through SQL, ETL pipelines, and intuitive dashboards.  
 
@@ -23,9 +23,8 @@ A full-stack analytics project built on synthetic patient data with ETL pipeline
 A curated repo of optimized SQL queries, schema design practices, and real-world healthcare scenarios.
 
 ## 🤝 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🧠 [Portfolio Site](https://yourportfolio.site) *(optional)*  
-📬 mrinal@email.com  
+💼 [LinkedIn](www.linkedin.com/in/mrinaljain95)    
+📬 mrinaljain.worl@gmail.com  
 
 ---
 _"Data storytelling is where my logic meets empathy—every insight is a patient’s story told better."_

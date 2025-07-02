@@ -16,15 +16,15 @@
 - **Data Concepts**: Medallion architecture, Lakehouse, ACID  
 
 ## 🧰 Featured Projects  
-🔍 [`Healthcare Insights Dashboard`](https://github.com/yourusername/healthcare-dashboard)  
+🔍 [`Healthcare Insight Project`](https://github.com/mrinaljaingit/healthcare-dashboard)  
 A full-stack analytics project built on synthetic patient data with ETL pipelines, KPIs, and Power BI dashboards.  
 
-🧪 [`SQL Sandbox`](https://github.com/yourusername/sql-sandbox)  
+🧪 [`SQL Sandbox`](https://github.com/mrinaljaingit/sql-sandbox)  
 A curated repo of optimized SQL queries, schema design practices, and real-world healthcare scenarios.
 
 ## 🤝 Let’s Connect  
 💼 [LinkedIn](www.linkedin.com/in/mrinaljain95)    
-📬 mrinaljain.worl@gmail.com  
+📬 mrinaljain.work@gmail.com  
 
 ---
 _"Data storytelling is where my logic meets empathy—every insight is a patient’s story told better."_

@@ -4,7 +4,8 @@
 🎯 Passionate about transforming complex data into powerful insights through SQL, ETL pipelines, and intuitive dashboards.  
 
 ## 🚀 Current Mission
-🧠 Profient with SQL Server, Query Optimization, ETL Development, Data Warehousing and Modelling, Migration using Azure Data Factory. 
+🧠 Profient with SQL Server, Query Optimization, ETL Development, Data Warehousing and Modelling, Migration using Azure Data Factory.
+
 🎓 Upskilling in cloud-native data tools:  Azure Databricks, Snowflake, and Excel  
 📊 Building a Revenue Cycle Management healthcare analytics project with Azure Data Lake Gen2, Azure SQL DB, Azure Data Factory, Databricks, synthetic data and stakeholder dashboards. 
 🌐 Actively seeking Sr. Data Engineer roles. 

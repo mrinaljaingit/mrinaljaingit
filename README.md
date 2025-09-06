@@ -1,18 +1,19 @@
 # 👋 Hi, I’m Mrinal  
-**Ex-TreasureData - CDP Engineer** | **Ex-UHG - Data Engineer** | **Healthcare Data Analytics** |
+**Ex-TreasureData - Sr. Data Engineer** | **Ex-UHG - Assc. Data Engineering Analyst** | **Healthcare Data Analytics** |
 
-🎯 Passionate about transforming complex healthcare data into powerful insights through SQL, ETL pipelines, and intuitive dashboards.  
+🎯 Passionate about transforming complex data into powerful insights through SQL, ETL pipelines, and intuitive dashboards.  
 
 ## 🚀 Current Mission
-🎓 Upskilling in modern data tools: SQL Server, Azure Databricks, Snowflake, and Excel  
-📊 Building a healthcare analytics project with synthetic data and stakeholder dashboards  
-🌐 Actively seeking client-facing analytics roles in the healthcare domain  
+🧠 Profient with SQL Server, Query Optimization, ETL Development, Data Warehousing and Modelling, Migration using Azure Data Factory. 
+🎓 Upskilling in cloud-native data tools:  Azure Databricks, Snowflake, and Excel  
+📊 Building a Revenue Cycle Management healthcare analytics project with Azure Data Lake Gen2, Azure SQL DB, Azure Data Factory, Databricks, synthetic data and stakeholder dashboards. 
+🌐 Actively seeking Sr. Data Engineer roles. 
 
 ## 🧠 Technical Toolbelt  
 - **Languages**: SQL, T-SQL  
 - **ETL**: SQL Server Integration Services (SSIS), IBM DataStage  
 - **Analytics & BI**: Power BI, Tableau  
-- **Cloud & Modern Stack**: Databricks, Snowflake (learning in progress)  
+- **Cloud & Modern Stack**: ADLS, ADF, Azure SQL DB, Databricks, Snowflake (learning in progress)  
 - **Data Concepts**: Medallion architecture, Lakehouse, ACID  
 
 ## 🧰 Featured Projects  
@@ -26,5 +27,3 @@ A curated repo of optimized SQL queries, schema design practices, and real-world
 💼 [LinkedIn](www.linkedin.com/in/mrinaljain95)    
 📬 mrinaljain.work@gmail.com  
 
----
-_"Data storytelling is where my logic meets empathy—every insight is a patient’s story told better."_
